@@ -1,7 +1,11 @@
 do or do not, there is not try-
 
+<<<<<<< HEAD
 Yoga
 
 It always seems impossible
 
 This is the best day of your life
+=======
+Yoga
+>>>>>>> parent of d66bac3 (this is the first commit)
