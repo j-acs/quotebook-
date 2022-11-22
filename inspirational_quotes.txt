@@ -9,3 +9,11 @@ This is the best day of your life
 =======
 Yoga
 >>>>>>> parent of d66bac3 (this is the first commit)
+
+
+This is the test of life
+
+
+Today is the first day of your life
+
+-some dude
