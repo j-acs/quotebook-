@@ -17,3 +17,7 @@ This is the test of life
 Today is the first day of your life
 
 -some dude
+
+
+If you can dream it, you can do it
+-some guy
